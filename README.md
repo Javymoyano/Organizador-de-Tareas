@@ -19,6 +19,8 @@ Contiene un input y un submit para agregar las tareaas a realizar. Ua vez realiz
 
 
 ### Ver el proyecto en vivo
+https://javymoyano.github.io/Organizador-de-Tareas/
+
 **npm start**
 
 Runs the app in the development mode.\
