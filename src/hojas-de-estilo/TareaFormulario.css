@@ -1,0 +1,25 @@
+
+/* BOTON INPUT */
+
+.boton-tarea{
+    width: 200px;
+    height: 40px;
+    border-radius: 26px;
+    border: 1px solid #e63946;
+    background-color: #e63946;
+    color: white;
+    font-size: 16px;
+    font-family: Helvetica, sans-serif;
+    cursor: pointer ;
+    
+    /* curso:hover{
+      background-color: #e63946;
+      color: white;
+    } */
+    margin-bottom: 10px;
+  }
+  .boton-tarea:hover{
+    background-color: #f7818b;
+    border: 1px solid #f7818b;
+    color: white;
+  }
