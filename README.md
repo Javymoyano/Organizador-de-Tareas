@@ -12,6 +12,12 @@ Contiene un input y un submit para agregar las tareaas a realizar. Ua vez realiz
 
 [Behance](www.behance.net/javymoyano6911)
 
+
+### Captura del Proyecto funcionando
+
+![App-Tareas](https://user-images.githubusercontent.com/92520469/175972180-c1bc7b6c-f7bd-4812-af7b-4efb850abdda.png)
+
+
 ### Ver el proyecto en vivo
 **npm start**
 
