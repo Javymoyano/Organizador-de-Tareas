@@ -1,7 +1,7 @@
 # Descripción
 
 Esta es una aplicación (solo desde el front) creada con Javascript, usando React js, CSS y Material UI.
-Contiene un input y un submit para agregar las tareaas a realizar. Ua vez realizada, haciendo click sobre la tarea, está se tacha y si se presiona el icono de la "x" podremos eliminar esa tarea de la lista.
+Contiene un input y un submit para agregar las tareaas a realizar. Una vez realizada, haciendo click sobre la tarea, ésta se tacha y si se presiona el icono de la "x" podremos eliminar esa tarea de la lista.
 
 ## Autor🖋
 
